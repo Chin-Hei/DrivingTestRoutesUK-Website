@@ -2,7 +2,7 @@
 
 https://chin-hei.github.io/FishingGuide-Website/
 
-You can use the [editor on GitHub](https://github.com/Chin-Hei/FishingGuide-Website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This app seeks to teach beginner anglers the basics to fishing!
 
 ### Markdown
 
