@@ -1,9 +1,9 @@
-## Welcome to FishingGuide
+## Welcome to DrivingTestRoutesUK
 
-https://chin-hei.github.io/FishingGuide-Website/
+https://chin-hei.github.io/DrivingTestRoutesUK-Website/
 
-This app seeks to teach beginner anglers the basics to fishing!
+This app seeks to help users prepare for their practical driving test by practicing test routes!
 
 ### Support or Contact
 
-For more support contact me at: williamcheung965@gmail.com 
+For more support contact me at: drivingtestroutes125@gmail.com
